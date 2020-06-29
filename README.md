@@ -1,1 +1,1 @@
-# ReactJS---Object-detection
+# ReactJS-Object-detection
