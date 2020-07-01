@@ -1,14 +1,7 @@
 # Object Detection React App
 
-You can find an in depth walkthrough for training a TensorFlow.js model [here](https://github.com/cloud-annotations/training/).
-
 ## Setup
 `git clone` the repo and `cd` into it by running the following command:
-
-```bash
-git clone https://github.com/cloud-annotations/object-detection-react.git
-cd object-detection-react
-```
 
 ### `npm install`
 
